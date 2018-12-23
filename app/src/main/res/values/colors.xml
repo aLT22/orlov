@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- Meta colors -->
+    <color name="twitterColor">#34B2E7</color>
+
+    <!-- Basic main colors -->
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorScreenBackground">#DEDEDE</color>
+
+    <!-- Regular colors -->
+    <color name="colorLightGray">#ccc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#A9A9A9</color>
+
+    <!-- Buttons colors -->
+    <color name="colorButtonGray">#FFDBDBDB</color>
+
+    <!-- Navigation drawer colors -->
+    <color name="colorDrawerBackground">#F2F2F2</color>
+    <color name="colorNavigation">#000000</color>
+
+    <!-- TextView colors -->
+    <color name="colorTextPrimary">#000000</color>
+
+    <!-- Notifications colors -->
+    <color name="colorNotificationBackground">#737373</color>
+
 </resources>
