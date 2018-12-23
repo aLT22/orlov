@@ -1,0 +1,7 @@
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation CoreDependencies.kotlin
+
+    implementation CoreDependencies.jSoup
+}

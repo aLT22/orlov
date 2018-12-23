@@ -1,0 +1,11 @@
+dependencies {
+    implementation UiDependencies.appCompat
+    implementation UiDependencies.constraintLayout
+    implementation UiDependencies.rv
+    implementation UiDependencies.v4
+    implementation UiDependencies.cardView
+
+    implementation UiDependencies.videoPlayer
+    implementation UiDependencies.picasso
+    implementation UiDependencies.rtlViewPager
+}
